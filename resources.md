@@ -12,6 +12,7 @@
 - [Single Responsibility Principle](http://jjbohn.info/blog/2014/07/28/single-responsibility-principle-a-solid-week/)
 - [SOLID principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 - [TDD on Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 ### Debugging
 - [Using the stack trace (video)](https://www.youtube.com/watch?v=TF_-tfOc9Pw)
 ### Ruby
