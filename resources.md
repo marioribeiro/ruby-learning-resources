@@ -7,6 +7,7 @@
 - [Edge case](https://en.wikipedia.org/wiki/Edge_case)
 - [Extract Class on Scrutinizer](https://scrutinizer-ci.com/docs/refactorings/extract-class)
 - [Extract Class on SourceMaking](https://sourcemaking.com/refactoring/extract-class)
+- [Polymorphism and Duck Typing](http://stackoverflow.com/questions/11502433/what-is-the-difference-between-polymorphism-and-duck-typing)
 - [Refactoring book](http://refactoring.com/)
 - [Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
 - [Single Responsibility Principle](http://jjbohn.info/blog/2014/07/28/single-responsibility-principle-a-solid-week/)
