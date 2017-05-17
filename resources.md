@@ -46,6 +46,7 @@
 - [Test all possible cases on Better Specs](http://betterspecs.org/#all)
 - [Why you should care about encapsulation](http://gmoeck.github.io/2011/09/20/why-you-should-care-about-encapsulation.html)
 - [4 phase testing](https://robots.thoughtbot.com/four-phase-test)
+- [Mocks aren't Stubs by Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)
 ### Testing - Rspec
 - [Better Specs](http://betterspecs.org/)
 - [RSpec basic structure](https://www.relishapp.com/rspec/rspec-core/v/3-3/docs/example-groups/basic-structure-describe-it)
