@@ -10,6 +10,7 @@
 - [Polymorphism and Duck Typing](http://stackoverflow.com/questions/11502433/what-is-the-difference-between-polymorphism-and-duck-typing)
 - [Refactoring book](http://refactoring.com/)
 - [Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
+- [Class Extraction](https://sourcemaking.com/refactoring/extract-class)
 - [Single Responsibility Principle](http://jjbohn.info/blog/2014/07/28/single-responsibility-principle-a-solid-week/)
 - [SOLID principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 - [TDD on Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
